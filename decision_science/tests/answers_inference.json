@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "\n    The median age is associated with a positive effect on the crime incidents.\n",
+    "T_STAT": "\n    The t-statistics associated withe median age regressor is 1.820.\n    If we hypothesize that the median age is not correlated with total number of incidents,\n    the t-statistics is computude as the ratio between the observed median age coeff to its sts_err (see summary).\n",
+    "P_VALUE": "\n    p-value is the proba that the observed value of median age is due to pure chance.\n    Since it is equal to 0.128, it is not statistically significant neither at the 95% nor at 90% confidence levels.\n",
+    "INCREASE": "\n    Holding all other regressors constant, each increase in the share of families with a married couple\n    decreases the total number of incidents by -2115.1839\n",
+    "LIMITATIONS": "\n    Regression performance should not be measured only by its R-squared\n"
+}
